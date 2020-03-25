@@ -29,3 +29,8 @@ Write a stream pipeline that:
 
 1. Returns the number of void and non-void declared methods of `java.lang.String`.
 
+## Useful links
+
+* [java.lang.Class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Class.html)
+* [Package java.lang.reflect](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/reflect/package-summary.html)
+
